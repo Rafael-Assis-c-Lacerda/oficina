@@ -1,3 +1,11 @@
+*{
+    font-size: 120px;
+    font-family: 'Times New Roman', Times, serif;
+}
+div{
+    border: 60px gray solid;
+    width: 10em;
+}
 body{
     background-color: brown;
 }
