@@ -8,7 +8,7 @@ div{
     height: 30rem;
     margin: 1rem auto;
     padding: 0.5rem;
-    box-shadow: 1rem 1rem 1rem 1rem black;
+    box-shadow: 0.5rem 0.5rem 0.25rem 0.3rem black;
 }
 image{
     width: 25rem;
