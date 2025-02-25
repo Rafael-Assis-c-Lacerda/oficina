@@ -1,3 +1,3 @@
 function navegar(){
-    window.location = "https://www.google.com.br/";
+    window.location = "google.com";
 }
